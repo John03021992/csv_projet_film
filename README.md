@@ -1,2 +1,2 @@
 # csv_projet_film
-forkez vos csv qui contient vos films
+forkez vos csv qui contiennnent vos films
